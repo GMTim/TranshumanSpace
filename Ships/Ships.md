@@ -31,9 +31,12 @@ All ships have the following skills. Skills are how capable the ship is, but sti
  - Processing
 
 ### Stunts and Refresh
-All ships have 3 refresh, and 3 free stunts. Refresh can be traded for stunts for a minimum of 1 refresh.
+All ships have 3 refresh, and free stunts equal to its size. Refresh can be traded for stunts for a minimum of 1 refresh.
 Stunts allow a ship to have special abilities outside of normal ship system, such as a cloaking field, or fighter bay.
 All ships come with a power plant, a propulsion system, storage bay, defense system, life support system, communication suite, computer core. Life support may be in the form of living space, or as sleeve storage mixed with VR.
+
+### Stress
+Ships have 3 stress plus its size. Ships also have a number of complications equal to their size. Minimum 3 stress, and 1 complication.
 
 ## Ships of Transhuman Space
 
