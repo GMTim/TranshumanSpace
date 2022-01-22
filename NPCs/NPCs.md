@@ -2,4 +2,4 @@
 ___
 
 ___
-**[Home](../Index.md)**
+**[Home](../index.md)**

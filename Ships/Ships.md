@@ -38,4 +38,4 @@ All ships come with a power plant, a propulsion system, storage bay, defense sys
 ## Ships of Transhuman Space
 
 ___
-**[Home](../Index.md)**
+**[Home](../index.md)**
