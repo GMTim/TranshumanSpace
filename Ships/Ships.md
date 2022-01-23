@@ -22,7 +22,8 @@ All ships have a size that ranges on the Fate Ladder.
  - **-2:** EVA Suite
  
 ### Skills
-All ships have the following skills. Skills are how capable the ship is, but still require crew. If a crew’s skill is less then the ships skill, the crew gets a +1. If a ships skill is less then a crew’s skill they get a -1.
+All ships have the following skills. Skills are how capable the ship is, but still require crew. If a crew’s skill is less then the ships skill, the crew gets a +1. If a ships skill is less then a crew’s skill they get a -1. 
+When building a ship, you get the follow spread of points to assign to each skill. 0, +1, +2, +3, +4, +5.
 
  - Power
  - Acceleration
@@ -35,6 +36,8 @@ All ships have the following skills. Skills are how capable the ship is, but sti
 All ships have 3 refresh, and free stunts equal to its size + 2. Refresh can be traded for stunts for a minimum of 1 refresh.
 Stunts allow a ship to have special abilities outside of normal ship system, such as a cloaking field, or fighter bay.
 All ships come with a power plant, a propulsion system, storage bay, defense system, life support system, communication suite, computer core, sensor suite. Life support may be in the form of living space, or as sleeve storage mixed with VR.
+
+[Ship Systems](Systems/Systems.md)
 
 #### Weapon Systems
 A weapon system on a ship is a stunt. When creating a weapon system determine the skill used by that would activate the weapon system. For example, a mass driver would probably use the ships Power skill to operate. While a point defense system would use Sensors.
